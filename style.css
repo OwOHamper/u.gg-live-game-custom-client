@@ -1,0 +1,80 @@
+::-webkit-scrollbar {
+    display: none !important;
+}
+
+a[href="/support-us"] {
+    display: none !important;
+}
+
+a[href="/app?utm_source=uggtop"] {
+    display: none !important;
+}
+
+
+a[href="/signup"] {
+    display: none !important;
+}
+
+a[href="/login"] {
+    display: none !important;
+}
+
+a[href^="https://probuildstats.com/"] {
+    display: none !important;
+}
+
+a[href^="https://onlyguides.com/"] {
+    display: none !important;
+}
+
+svg.new-tag {
+    display: none !important;
+}
+
+.ad-box-wrapper {
+    display: none !important;
+}
+
+.side-ads-container  {
+    display: none !important;
+}
+
+.app-banner {
+    display: none !important;
+}
+
+.masthead_livegame {
+    display: none !important;
+}
+
+#side-nav_footer {
+    display: none !important;
+}
+
+#side-nav {
+    display: none !important;
+}
+
+#side-nav-container {
+    display: none !important;
+}
+
+.logo-nav {
+    display: none !important;
+}
+
+.masthead-settings-icon {
+    display: none !important;
+}
+
+.notification-icon {
+    display: none !important;
+}
+
+.masthead-right {
+    display: none !important;
+}
+
+#masthead .masthead-container .masthead-search-bar-container .masthead-ugg-search-bar {
+    max-width: 1000px;
+}
