@@ -78,3 +78,19 @@ svg.new-tag {
 #masthead .masthead-container .masthead-search-bar-container .masthead-ugg-search-bar {
     max-width: 1000px;
 }
+
+#lngtd-video-player {
+	display: none !important;
+}
+
+.content-section_content.video-guide.media-query.media-query_TABLET__DESKTOP_LARGE {
+    display: none !important;
+}
+
+.onlyguides-banner {
+    display: none !important;
+}
+
+.onlyguides-cta {
+    display: none !important;
+}

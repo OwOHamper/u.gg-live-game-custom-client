@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Test directories and files
+tests/
+__tests__/
+
+# Build directories and files
+build/
+dist/
+
+# Temporary files
+tmp/
+*.tmp
+
+# Specific files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Package manager files
+package-lock.json
+yarn.lock
+
+# Browser cache files
+.cache/
+
+# IDE settings
+.editorconfig
+.eslintrc.js
+.babelrc
+
+# Other files
+*.swp
+*.bak
+*.suo
+*.pid
+*.gz
+
+
+ugg-live-game-linux-x64
+ugg-live-game-win32-x64.zip
+ugg-live-game-win32-x64
